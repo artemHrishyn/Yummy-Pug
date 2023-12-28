@@ -1,0 +1,25 @@
+.footer{
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+    background-color: #774E2E;
+    width: 100%;
+    color: #fff;
+    font-size: 36px;
+    line-height: 130%;
+    letter-spacing: 0.36px;
+
+    div{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    img{
+        max-width: 99px;
+    }
+
+    p{
+        max-width: 883px;
+    }
+}
